@@ -3,7 +3,7 @@
 0036494662
 # Pitanje 1
 U Bin/Debug folderu nakon sto sam dodao class library kao referencu pojavio se
-Nakon sto pokusam pokrenuti .exe javlja mi se pogreska i ne pokrece se program. Zato sto je class library referenca i bez nje se ne moze pokrenuti program. Poslati cu vam datoteku KonzolnaAplikacija (program) i datoteku ClassLibrary1.dll.
+Nakon sto pokusam pokrenuti .exe javlja mi se pogreska i ne pokrece se program. Zato sto je class library referenca i bez nje se ne moze pokrenuti program. Poslao bih vam datoteku KonzolnaAplikacija (program) i datoteku ClassLibrary1.dll.
 # Pitanje 2
 Nakon sto sam izmijenio string i pokrenuo bez prevodenja konzolna aplikacija je prikazala novi string. Kad se prevodimo aplikaciju ujedno i prevodimo class library pa se zbog toga ispisao novi string.
 # Pitanje 3
